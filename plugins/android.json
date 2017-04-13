@@ -8,29 +8,29 @@
     },
     "installed_plugins": {
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         }
     },
     "dependent_plugins": {}
