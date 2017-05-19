@@ -7,17 +7,14 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-whitelist": {
+        "cordova-custom-config": {
             "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         },
-        "phonegap-plugin-push": {
-            "SENDER_ID": "xxxxx",
+        "cordova-plugin-contacts": {
+            "CONTACTS_USAGE_DESCRIPTION": " ",
             "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
-        },
-        "cordova-custom-config": {
             "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         },
         "cordova-plugin-dialogs": {
@@ -31,7 +28,24 @@
         },
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "com.designbest.mobilificiocarli"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "xxxxx",
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
+        },
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "com.designbest.mobilificiocarli"
+        }
+    }
 }
