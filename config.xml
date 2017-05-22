@@ -105,5 +105,5 @@ Con la gallery guarda il prodotto d'arredo da te selezionato nei minimi dettagli
     <plugin name="cordova-plugin-network-information" spec="~1.2.1" />
     <plugin name="cordova-plugin-statusbar" spec="~2.2.0" />
     <plugin name="cordova-plugin-contacts" CONTACTS_USAGE_DESCRIPTION="" />
-		<plugin name="cordova-plugin-x-socialsharing" spec="~5.1.8" src="https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin" />
+    <plugin name="cordova-plugin-x-socialsharing" spec="~5.1.8" src="https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin"/>
 </widget>
